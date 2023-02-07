@@ -4,7 +4,6 @@ import { IoPlay, IoPlayForward, IoPlayBack } from "react-icons/io5";
 import axios from "axios";
 
 import formatDuration from "../utils/formatDuration";
-import Player from "../hooks/useAudio";
 
 import {
   Container,
@@ -65,7 +64,7 @@ const Content: React.FC = () => {
   }, []);
 
   function nextMusic(): void {
-    if (musicSelect == 9) {
+    if (musicSelect === 9) {
       setMusicSelect(0);
     } else {
       setMusicSelect(musicSelect + 1);
@@ -73,7 +72,7 @@ const Content: React.FC = () => {
   }
 
   function backMusic(): void {
-    if (musicSelect == 0) {
+    if (musicSelect === 0) {
       setMusicSelect(9);
     } else {
       setMusicSelect(musicSelect - 1);
