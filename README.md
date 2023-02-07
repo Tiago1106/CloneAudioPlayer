@@ -9,7 +9,7 @@ Developed by [Tiago de Freitas Pinheiro](https://github.com/Tiago1106)
 
 <img src="./src/Assets/Project.png"/>
 
-
+To view without downloading and running the repository, [click here](https://cloneaudioplay.netlify.app/)
 To create the project I used [React](https://create-react-app.dev/docs/adding-typescript/), for practicality. So I did all the styling with [Styled Components](https://styled-components.com/).
 
 ## 📋 Features:
@@ -24,7 +24,7 @@ Before you begin, check that you have met the following requirements:
 * [Git](https://git-scm.com) installed;
 * [Node 16.13.2](https://nodejs.org/en/download/) or higher installed;
 * [Yarn](https://yarnpkg.com/) or [NPM](https://nodejs.org/en/download/) installed;
-* Remember to clone the repository `git clone https://github.com/Tiago1106/CloneAudioPlayer.git` to be able to install and use.
+* [Site](https://cloneaudioplay.netlify.app/)
 
 ## 🚀 Installation/Run:
 
