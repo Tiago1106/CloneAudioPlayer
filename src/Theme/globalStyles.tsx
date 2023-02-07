@@ -10,6 +10,7 @@ const GlobalStyle = createGlobalStyle`
 
   body * {
     box-sizing: border-box;
+    overflow-x: hidden;
   }
 `;
  

@@ -35,6 +35,10 @@ export const ContentRight = styled.div`
   flex-direction: column;
 
   margin-left: 15px;
+
+  @media screen and (max-width: 699px) {
+    display: none;
+  }
 `
 export const Card2 = styled.div`
   width: 358px;
