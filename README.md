@@ -10,10 +10,6 @@ Developed by [Tiago de Freitas Pinheiro](https://github.com/Tiago1106)
 <img src="./src/Assets/Project.png"/>
 
 
-![React](https://pt-br.reactjs.org/)
-![Typescript](https://www.typescriptlang.org/)
-
-
 To create the project I used [React](https://create-react-app.dev/docs/adding-typescript/), for practicality. So I did all the styling with [Styled Components](https://styled-components.com/).
 
 ## 📋 Features:
@@ -50,4 +46,4 @@ $ yarn start
 - [Styled Components](https://styled-components.com/)
 - [React](https://pt-br.reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
-- [APISpotify] (https://rapidapi.com/420vijay47/api/spotify117/)
+- [APISpotify](https://rapidapi.com/420vijay47/api/spotify117/)
