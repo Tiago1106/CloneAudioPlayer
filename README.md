@@ -15,7 +15,7 @@ To create the project I used [React](https://create-react-app.dev/docs/adding-ty
 ## 📋 Features:
 
 - In development, coming soon.
-    - [ ] Feature 01
+    - [] Play Music
 
 ## 📌 Requirements:
 
