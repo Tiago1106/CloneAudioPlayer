@@ -91,6 +91,7 @@ export const DivImageRight = styled.div`
 export const ImageCardRight = styled.img`
   width: 84px;
   height: 84px;
+  overflow-x: reverse;
 
   margin-right: 30px;
   border-radius: 5px; 
